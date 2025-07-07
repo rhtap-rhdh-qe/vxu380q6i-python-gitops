@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vxu380q6i-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vxu380q6i-python
